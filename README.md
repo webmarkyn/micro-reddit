@@ -1,24 +1,9 @@
-# README
+# Micro-Reddit Project from Microverse
+from the Microverse Ruby on rails curriculum
+Following [this link](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails.) from The Odin Project 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project puts your knowledge of active record, models, and associations to the tests. You will build an application similar to Reddit (called Micro-Reddit) where a user can create a post and add comments to it.
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Authors: 
+This project was executed by Mark Baidebura and Andres Rodriguez,  students of Microverse.
