@@ -20,12 +20,12 @@ Metrics/ClassLength:
 Metrics/BlockLength:
   ExcludedMethods: ['describe']
 
+Layout/EndOfLine:
+  EnforcedStyle: lf
 Style/Documentation:
   Enabled: false
 Style/ClassAndModuleChildren:
   Enabled: false
-Style/EndOfLine:
-  EnforcedStyle: lf
 
 Layout/AlignHash:
   EnforcedColonStyle: key
